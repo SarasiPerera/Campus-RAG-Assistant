@@ -1,0 +1,4 @@
+chromadb
+groq
+jupyter
+streamlit

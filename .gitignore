@@ -1,0 +1,15 @@
+# Never commit API keys
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# ChromaDB local persistence (if switched from in-memory to persistent client)
+chroma_db/
+
+# OS
+.DS_Store
