@@ -9,10 +9,7 @@ Handbook, using semantic search combined with an LLM for grounded answer generat
 
 ## Why this project
 
-Built to demonstrate the core skills most 2026 "AI Engineer" internship postings screen
-for specifically: RAG pipelines, vector databases, and LLM API integration — distinct
-from classical ML (model training/evaluation), which is covered in other projects in this
-portfolio.
+Nobody actually reads the 60-page student handbook - so questions about hostel curfews, disciplinary appeals, or scholarship eligibility end up getting asked informally, with answers that depend on who you ask rather than what the handbook actually says. This makes the handbook itself searchable in plain language, with the source section shown for every answer so you can verify it yourself.
 
 ## How it works
 
